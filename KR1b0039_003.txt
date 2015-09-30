@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書疑義
-#+DATE: 2015-09-23 09:36:12
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 22:03:10.705545
+#+PROPERTY: ID KR1b0039
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三
 <pb:KR1b0039_WYG_003-1a>¶
 欽定四庫全書¶
 　尚書疑義卷三¶
@@ -758,4 +760,3 @@
 　¶
 　¶
 　尚書疑義卷三¶
-
